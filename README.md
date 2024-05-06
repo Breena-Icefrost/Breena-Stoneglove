@@ -38,7 +38,7 @@
 -   No BIAS / Fangirl
 -   OS Installation
 
-> Privacy & Cybersecurit
+> Privacy & Cybersecurity
 - Only Open-Source in my Home!
 - Hard but Easy to Remember Root Compts
 - Well-Secured Router or DIY Router
