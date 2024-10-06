@@ -3,7 +3,7 @@
 - 🌱 Teaching myself the ways of the electronics & code.
 - ⚡ Fun fact: Foxes are the best animals.
 
-# OSs
+# Distributions
 <img src="https://github.com/Breena-Stoneglove/Breena-Stoneglove/assets/143509797/a6e8b495-cbc0-44e5-a72e-4ef8938b209d" alt="Arch" height="160"/>  
 <img src="https://github.com/Breena-Stoneglove/Breena-Stoneglove/assets/143509797/6448be7d-9415-4b56-8c42-53e7937766f4" alt="Debian" height="160"/>  
 <img src="https://github.com/Breena-Stoneglove/Breena-Stoneglove/assets/143509797/66cbdce3-b474-48fc-8455-ecfbddd2430a" alt="Tiny Core Linux" height="160"/>
